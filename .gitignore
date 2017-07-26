@@ -1,0 +1,11 @@
+*~
+/bin/
+/build/
+/target/
+/.gradle/
+/.idea/
+/.settings/
+/.classpath
+/.project
+/*.iml
+/meecrowave-*
