@@ -1,4 +1,4 @@
-package de.safisto.microservice.demo.configuration;
+package de.safisto.microservice.demo.meecrowave.configuration;
 
 import org.apache.meecrowave.Meecrowave;
 

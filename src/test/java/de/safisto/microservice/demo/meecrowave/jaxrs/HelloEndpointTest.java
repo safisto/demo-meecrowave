@@ -1,10 +1,12 @@
-package de.safisto.microservice.demo.jaxrs;
+package de.safisto.microservice.demo.meecrowave.jaxrs;
 
 import org.apache.meecrowave.Meecrowave;
 import org.apache.meecrowave.junit.MonoMeecrowave;
 import org.apache.meecrowave.testing.ConfigurationInject;
 import org.junit.Test;
 import org.junit.runner.RunWith;
+
+import de.safisto.microservice.demo.meecrowave.jaxrs.HelloEndpoint;
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;

@@ -1,4 +1,4 @@
-package de.safisto.microservice.demo.jaxrs;
+package de.safisto.microservice.demo.meecrowave.jaxrs;
 
 import javax.enterprise.context.Dependent;
 import javax.ws.rs.ApplicationPath;
